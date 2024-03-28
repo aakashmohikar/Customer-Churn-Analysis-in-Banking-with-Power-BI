@@ -35,7 +35,7 @@ Make data-driven decisions: Leverage data insights to improve customer experienc
 Microsoft Power BI
 
 ## Getting Started:
-1. Download the Power BI Desktop application (https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+1. Download the Power BI Desktop application.
 2. Clone this repository to your local machine.
 3. Open the .pbix file in Power BI Desktop.
 4. Connect to the data sources based on the information provided in the data dictionary.
