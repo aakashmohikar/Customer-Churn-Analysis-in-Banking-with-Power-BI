@@ -1,3 +1,7 @@
+
+![Image Alt](https://github.com/aakashmohikar/Customer-Churn-Analysis-in-Banking-with-Power-BI/blob/de9e4a5804554a3539e1838fb1d73de2940b0ccc/Customer%20Churn%20Analysis%20dashboard%20image.jpg)
+
+
 # Customer-Churn-Analysis-in-Banking-with-Power-BI
 
 ## Description
